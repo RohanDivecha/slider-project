@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/slider-project/static/css/main.8f6f28fe.chunk.css",
+    "main.js": "/slider-project/static/js/main.d213bcf3.chunk.js",
+    "main.js.map": "/slider-project/static/js/main.d213bcf3.chunk.js.map",
+    "runtime-main.js": "/slider-project/static/js/runtime-main.6bca1e83.js",
+    "runtime-main.js.map": "/slider-project/static/js/runtime-main.6bca1e83.js.map",
+    "static/js/2.8672129f.chunk.js": "/slider-project/static/js/2.8672129f.chunk.js",
+    "static/js/2.8672129f.chunk.js.map": "/slider-project/static/js/2.8672129f.chunk.js.map",
+    "static/js/3.488477f6.chunk.js": "/slider-project/static/js/3.488477f6.chunk.js",
+    "static/js/3.488477f6.chunk.js.map": "/slider-project/static/js/3.488477f6.chunk.js.map",
+    "index.html": "/slider-project/index.html",
+    "static/css/main.8f6f28fe.chunk.css.map": "/slider-project/static/css/main.8f6f28fe.chunk.css.map",
+    "static/js/2.8672129f.chunk.js.LICENSE.txt": "/slider-project/static/js/2.8672129f.chunk.js.LICENSE.txt",
+    "static/media/ps4.90467428.png": "/slider-project/static/media/ps4.90467428.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bca1e83.js",
+    "static/js/2.8672129f.chunk.js",
+    "static/css/main.8f6f28fe.chunk.css",
+    "static/js/main.d213bcf3.chunk.js"
+  ]
+}

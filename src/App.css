@@ -1,0 +1,88 @@
+.App{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+
+
+.base{
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color:whitesmoke;
+  width: 400px;
+  height: 600px;
+  margin: 30px;
+  border-radius: 25px;
+  border: 5px solid #73AD21;
+  box-shadow: 10px 10px 5px black;
+  
+}
+
+.h2{
+  font-size: 1.8rem;
+  position:relative;
+  bottom: 1rem;
+}
+
+.words{
+  text-align: center;
+  position: relative;
+  bottom: 3.5rem;
+  font-size: large;
+}
+
+.deal{
+  border-radius: 2rem;
+  border: 3px solid red;
+  text-align: center;
+  font-size: 1.89rem;
+  position: relative;
+  bottom: 4.8rem;
+}
+
+.h3{
+  position: relative;
+  bottom: 7rem;
+}
+
+.slider{
+  position: relative;
+  bottom: 6.5rem;
+}
+
+.h33{
+  position: relative;
+  bottom: 8rem;
+  
+}
+
+.notes{
+  position: relative;
+  bottom: 8rem;
+  right: 3rem;
+}
+
+
+@media screen and (max-width:500px) {
+  .App{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-flow: column;
+  }
+  .base{
+    position: relative;
+    left: 4rem;
+    height:600px;
+    width:390px;
+  }
+
+  .psimage{
+    position: relative;
+    left: 3rem;
+    width: 500px;
+  }
+}
